@@ -36,4 +36,4 @@ Komenda z poziomu folderu /NotatnikUzytkownikow/client-app:
 * npm run dev
 
 Po wykonaniu powyższych kroków aplikacja jest
-gotowa do uruchomienia pod adresem http://localhost:3000
+gotowa do uruchomienia pod adresem https://localhost:3000
